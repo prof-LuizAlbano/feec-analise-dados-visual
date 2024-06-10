@@ -4,6 +4,7 @@ certifi==2024.2.2
 charset-normalizer==3.3.2
 contourpy==1.2.1
 cycler==0.12.1
+dill==0.3.8
 fonttools==4.53.0
 idna==3.7
 kiwisolver==1.4.5
@@ -21,6 +22,8 @@ python-dateutil==2.9.0.post0
 pytz==2024.1
 requests==2.32.3
 scipy==1.13.1
+seaborn==0.13.2
+setuptools==70.0.0
 six==1.16.0
 soupsieve==2.5
 statsmodels==0.14.2
