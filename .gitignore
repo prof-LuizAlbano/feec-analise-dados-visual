@@ -159,7 +159,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-Referencias/
 *.zip
+*.gdoc
+Referencias/
+Tarefas/ProjetoFinal/BaseDados/*.csv
+!Tarefas/ProjetoFinal/BaseDados/*.zip
 
 .DS_STORE
