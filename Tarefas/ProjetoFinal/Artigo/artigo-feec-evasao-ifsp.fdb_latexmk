@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1720089609.14087 "/Users/luiz/Documents/Mestrado/Unicamp/feec-analise-dados-visual/Tarefas/ProjetoFinal/Artigo/artigo-feec-evasao-ifsp.tex" "artigo-feec-evasao-ifsp.pdf" "artigo-feec-evasao-ifsp" 1720089613.40051 0
-  "/Users/luiz/Documents/Mestrado/Unicamp/feec-analise-dados-visual/Tarefas/ProjetoFinal/Artigo/artigo-feec-evasao-ifsp.tex" 1720089605.15767 25211 65cbb3fa7304f765a7f7600168bd2c55 ""
+["pdflatex"] 1720090957.60936 "/Users/luiz/Documents/Mestrado/Unicamp/feec-analise-dados-visual/Tarefas/ProjetoFinal/Artigo/artigo-feec-evasao-ifsp.tex" "artigo-feec-evasao-ifsp.pdf" "artigo-feec-evasao-ifsp" 1720090959.81351 0
+  "/Users/luiz/Documents/Mestrado/Unicamp/feec-analise-dados-visual/Tarefas/ProjetoFinal/Artigo/artigo-feec-evasao-ifsp.tex" 1720090953.206 25197 b3e6894d1d9f099e1c2d91448e96694c ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/local/texlive/2024basic/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1136768653 4524 6bce29db5bc272ba5f332261583fee9c ""
@@ -83,8 +83,8 @@
   "/usr/local/texlive/2024basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1719351168 7536487 484092e8c4944e8b38e0aa789acdf85c ""
   "/usr/local/texlive/2024basic/texmf.cnf" 1710011638 628 8b896f7d9d41b43f4346b9091e52171f ""
   "IEEEtran.cls" 1719283171.75461 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
-  "artigo-feec-evasao-ifsp.aux" 1720089612.94665 1550 4be92e637ba7bf3285683fd52343bc44 "pdflatex"
-  "artigo-feec-evasao-ifsp.tex" 1720089605.15767 25211 65cbb3fa7304f765a7f7600168bd2c55 ""
+  "artigo-feec-evasao-ifsp.aux" 1720090959.52767 1530 de48663b120c7f5f31e9470286c1ecf0 "pdflatex"
+  "artigo-feec-evasao-ifsp.tex" 1720090953.206 25197 b3e6894d1d9f099e1c2d91448e96694c ""
   "figs/figura-1.png" 1720079512.3703 50305 dbc71d219cb24192e3282644f80c2eff ""
   "figs/figura-2.png" 1720079860.42006 37619 2dbd8b3f1abdb78326ea850175af4c7d ""
   "figs/figura-3.png" 1720079878.30986 41454 c40528c9800c49d29a1238b923e08428 ""
